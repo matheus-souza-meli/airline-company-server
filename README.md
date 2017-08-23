@@ -1,4 +1,4 @@
-# AirlineCompanyApp
+# AirlineCompanyServer
 
 This REST API was made in Java using Spring boot, JPA and with HSQLDB database. Api returns a short list of flights from an airline.
 
