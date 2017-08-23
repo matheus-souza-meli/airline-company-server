@@ -10,20 +10,17 @@ This REST API was made in Java using Spring boot, JPA and with HSQLDB database. 
 
 ## Build <a name="build"></a>
 
-For build you need the regular `mvn` command 
-http://maven.apache.org/run-maven/index.html[Maven v3.2.1 or above].
+For build you need the regular `mvn` command [[Maven](http://maven.apache.org/run-maven/index.html) v3.2.1 or above].
 
 	mvn clean install
 
 ## Running <a name="running"></a>
 
-----
 	mvn spring-boot:run
 
 or
 
 	java -jar target/airline-company-0.0.1-SNAPSHOT.jar
-----
 
 ## Running Tests <a name="runningTests"></a>
 
