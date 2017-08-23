@@ -52,8 +52,7 @@ or
             "destiny":"Fortaleza - CE",
             "airplane":{
                 "id":1,
-                "model":
-                "E195-E2",
+                "model":"E195-E2",
                 "capacity":144
             },
             "pilot":{
